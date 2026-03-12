@@ -108,13 +108,13 @@ We are building the **Autonomous Alpha Layer** for Prediction Markets, bringing 
 4. How to detect regime changes and market microstructure shifts in real-time?
 5. How to build a self-improving feedback loop from resolved markets back into the model?
 
-![ClawdataHedge Architecture](./website/static/img/banner.png)
+![ClawdataHedge Architecture](./banner2.png)
 
 ### Where it lives
 
 It lives between raw information and market execution:
 
-![level](./website/static/img/level.png)
+![level](./banner3.png)
 
 ```
   News / Social / On-chain          ClawdataHedge           Prediction Markets
